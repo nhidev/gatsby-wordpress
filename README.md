@@ -1,1 +1,1 @@
-# gatsby-wordpress
+# Gatsby WordPress
